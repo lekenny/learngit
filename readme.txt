@@ -9,3 +9,4 @@ version4.0
 version5.0
 version6.0
 version6.0
+version7.0
